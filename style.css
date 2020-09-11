@@ -1,0 +1,72 @@
+body{
+    background-color:white;
+}
+.nav-link{
+
+    font-weight: bolder;
+}
+.top-img{
+
+    background: url(img/pexels-taryn-elliott-4253829.jpg) ;
+
+    background-repeat: no-repeat;
+    background-size: 100% 40em;
+    height: 40em;
+   opacity: 0.98;
+    
+
+}
+.txt{
+    margin-top:14em;
+}
+.or{
+    text-shadow: 1px 1px rgb(54, 54, 54);
+}
+.par-txt{
+    width: 180%;
+    margin-left: 4em;
+    font-size: 20px;
+
+}
+.par-img{
+   margin-left: 10em;
+  
+}
+.paragrap{
+    display: flex;
+
+}
+.butt{
+
+    text-align: center;
+    padding: 30px;
+}
+.bt1,.bt2{
+    margin-right: 50px;
+    background-color: orange;
+    border:none ;
+    width: 120px;
+    color: white;
+    height: 40px;
+    font-size: 0.8em;
+    border-radius: 6px;
+
+}
+.bt1:hover,.bt2:hover{
+    background-color: darkorange;
+}
+.go{
+    
+        background: url(img/pexels-pixabay-163848.jpg) ;
+    
+        background-repeat: no-repeat;
+        background-size: 100% 40em;
+        height: 40em;
+       opacity: 0.98;
+        
+    
+    }
+.card:hover{
+    background-color: black;
+    color: white;
+}
